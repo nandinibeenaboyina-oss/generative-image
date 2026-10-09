@@ -1,0 +1,1 @@
+ D:\\Generative\ AI\ Art\ Studio\\build\\web\\manifest.json:  D:\\Generative\ AI\ Art\ Studio\\web\\index.html D:\\Generative\ AI\ Art\ Studio\\web\\manifest.json
